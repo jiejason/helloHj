@@ -11,6 +11,7 @@ public class FilterListenerApplicationTests {
 
 	@Test
 	public void contextLoads() {
+            System out println("hello test");
 	}
 
 }
